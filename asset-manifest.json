@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/theportfolio/static/css/main.b93781e8.css",
-    "main.js": "/theportfolio/static/js/main.7db8780f.js",
+    "main.css": "/theportfolio/static/css/main.cb4f061d.css",
+    "main.js": "/theportfolio/static/js/main.70cb7db1.js",
     "static/js/453.ed3810f9.chunk.js": "/theportfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/Netflix-video.mp4": "/theportfolio/static/media/Netflix-video.8af6e94d85b8db7529a6.mp4",
     "static/media/textutils-video.mp4": "/theportfolio/static/media/textutils-video.a959fe8f26bd59560248.mp4",
+    "static/media/netfliximage.png": "/theportfolio/static/media/netfliximage.a82bdb93fbd4fc6e1ec4.png",
     "static/media/hckrrnk.png": "/theportfolio/static/media/hckrrnk.b6d5156dc923f2194a78.png",
     "static/media/ui-ux2.jpg": "/theportfolio/static/media/ui-ux2.884336443415ea4445f7.jpg",
+    "static/media/trimtime-img.png": "/theportfolio/static/media/trimtime-img.b16f0ae180742a4be066.png",
     "static/media/ui-ux1.jpg": "/theportfolio/static/media/ui-ux1.4a5eb7433c08ddc5229c.jpg",
     "static/media/folder2.png": "/theportfolio/static/media/folder2.c628bae963d4a976e423.png",
     "index.html": "/theportfolio/index.html",
-    "main.b93781e8.css.map": "/theportfolio/static/css/main.b93781e8.css.map",
-    "main.7db8780f.js.map": "/theportfolio/static/js/main.7db8780f.js.map",
+    "main.cb4f061d.css.map": "/theportfolio/static/css/main.cb4f061d.css.map",
+    "main.70cb7db1.js.map": "/theportfolio/static/js/main.70cb7db1.js.map",
     "453.ed3810f9.chunk.js.map": "/theportfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b93781e8.css",
-    "static/js/main.7db8780f.js"
+    "static/css/main.cb4f061d.css",
+    "static/js/main.70cb7db1.js"
   ]
 }

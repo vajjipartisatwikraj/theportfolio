@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/theportfolio/static/css/main.cb4f061d.css",
-    "main.js": "/theportfolio/static/js/main.753e1e6f.js",
+    "main.css": "/theportfolio/static/css/main.f96dfa0d.css",
+    "main.js": "/theportfolio/static/js/main.cbb08ddd.js",
     "static/js/453.ed3810f9.chunk.js": "/theportfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/Netflix-video.mp4": "/theportfolio/static/media/Netflix-video.8af6e94d85b8db7529a6.mp4",
     "static/media/textutils-video.mp4": "/theportfolio/static/media/textutils-video.a959fe8f26bd59560248.mp4",
+    "static/media/newsmonkey.mp4": "/theportfolio/static/media/newsmonkey.44b5b379b360d00702a4.mp4",
     "static/media/currencyconvertor.mp4": "/theportfolio/static/media/currencyconvertor.0f23f30e28bf20ae2096.mp4",
     "static/media/stonepaperscissors.mp4": "/theportfolio/static/media/stonepaperscissors.031c2a4d2af15874cb3d.mp4",
     "static/media/netfliximage.png": "/theportfolio/static/media/netfliximage.a82bdb93fbd4fc6e1ec4.png",
@@ -14,12 +15,12 @@
     "static/media/ui-ux1.jpg": "/theportfolio/static/media/ui-ux1.4a5eb7433c08ddc5229c.jpg",
     "static/media/folder2.png": "/theportfolio/static/media/folder2.c628bae963d4a976e423.png",
     "index.html": "/theportfolio/index.html",
-    "main.cb4f061d.css.map": "/theportfolio/static/css/main.cb4f061d.css.map",
-    "main.753e1e6f.js.map": "/theportfolio/static/js/main.753e1e6f.js.map",
+    "main.f96dfa0d.css.map": "/theportfolio/static/css/main.f96dfa0d.css.map",
+    "main.cbb08ddd.js.map": "/theportfolio/static/js/main.cbb08ddd.js.map",
     "453.ed3810f9.chunk.js.map": "/theportfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb4f061d.css",
-    "static/js/main.753e1e6f.js"
+    "static/css/main.f96dfa0d.css",
+    "static/js/main.cbb08ddd.js"
   ]
 }
